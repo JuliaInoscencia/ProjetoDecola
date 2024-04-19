@@ -1,0 +1,23 @@
+{
+    "vendedores": [
+      {
+        "id": 1,
+        "nome": "João da Silva",
+        "meta": 10000,
+        "vendas": [5000, 6000, 7000]
+      },
+      {
+        "id": 2,
+        "nome": "Maria Oliveira",
+        "meta": 12000,
+        "vendas": [8000, 7000, 9000]
+      },
+      {
+        "id": 3,
+        "nome": "Carlos Santos",
+        "meta": 15000,
+        "vendas": [12000, 13000, 11000]
+      }
+    ]
+  }
+  
